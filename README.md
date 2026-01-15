@@ -28,9 +28,8 @@ You can control the brightness using the application slider or the following key
 This application is portable. Follow these steps to get started:
 
 1.  Navigate to the **[Releases](../../releases)** section of this repository.
-2.  Download the file named `main.7z` from the latest release.
-3.  **Extract** the contents of `main.7z` to a folder of your choice (you may need 7-Zip or WinRAR).
-4.  Open the extracted folder and double-click **`run.bat`** to start the application.
+2.  Download the file named `Dim.exe` from the latest release.
+3.  Double-click **`Dim.exe`** to start the application.
 
 > **Note:** If Windows SmartScreen prevents the application from running, click "More Info" and then "Run Anyway."
 
